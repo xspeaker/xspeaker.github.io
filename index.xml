@@ -6,6 +6,26 @@
     <description>Recent content on 小备份大整理</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 07 Sep 2021 17:13:10 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试第二篇文章</title>
+      <link>/posts/new2/</link>
+      <pubDate>Tue, 07 Sep 2021 17:13:10 +0800</pubDate>
+      
+      <guid>/posts/new2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> 这是一篇测试文章</title>
+      <link>/posts/newtest/</link>
+      <pubDate>Wed, 07 Sep 2011 17:11:39 +0800</pubDate>
+      
+      <guid>/posts/newtest/</guid>
+      <description>这是一篇测试文章   最多的时候
+ </description>
+    </item>
+    
   </channel>
 </rss>
