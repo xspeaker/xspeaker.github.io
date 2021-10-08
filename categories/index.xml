@@ -6,6 +6,34 @@
     <description>Recent content in 分类 on 小备份大整理</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 08 Sep 2021 10:22:43 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>健康</title>
+      <link>/categories/%E5%81%A5%E5%BA%B7/</link>
+      <pubDate>Wed, 08 Sep 2021 10:22:43 +0800</pubDate>
+      
+      <guid>/categories/%E5%81%A5%E5%BA%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>合作</title>
+      <link>/categories/%E5%90%88%E4%BD%9C/</link>
+      <pubDate>Wed, 08 Sep 2021 10:22:43 +0800</pubDate>
+      
+      <guid>/categories/%E5%90%88%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>编程</title>
+      <link>/categories/%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Wed, 08 Sep 2021 10:03:01 +0800</pubDate>
+      
+      <guid>/categories/%E7%BC%96%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

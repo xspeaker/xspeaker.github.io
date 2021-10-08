@@ -7,24 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 07 Sep 2021 17:13:10 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Sep 2021 10:22:43 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>测试第二篇文章</title>
-      <link>/posts/new2/</link>
-      <pubDate>Tue, 07 Sep 2021 17:13:10 +0800</pubDate>
+      <title>好好运动</title>
+      <link>/posts/bbb/</link>
+      <pubDate>Wed, 08 Sep 2021 10:22:43 +0800</pubDate>
       
-      <guid>/posts/new2/</guid>
-      <description></description>
+      <guid>/posts/bbb/</guid>
+      <description>好好运动  做一个运动的好孩子
+ 第一个标题  index second  最多的时候 美日   合作  第二个标题 我要回到
+你说你是
+你是你i
+你是
+你是
+你是你i
+你是
+你是
+你是你i
+你是
+你是
+回到第一个标题 回到第一个标题 </description>
     </item>
     
     <item>
-      <title> 这是一篇测试文章</title>
-      <link>/posts/newtest/</link>
-      <pubDate>Wed, 07 Sep 2011 17:11:39 +0800</pubDate>
+      <title>Aaa</title>
+      <link>/posts/aaa/</link>
+      <pubDate>Wed, 08 Sep 2021 10:03:01 +0800</pubDate>
       
-      <guid>/posts/newtest/</guid>
-      <description>这是一篇测试文章   最多的时候
- </description>
+      <guid>/posts/aaa/</guid>
+      <description></description>
     </item>
     
   </channel>
