@@ -1,0 +1,9 @@
+name = "Taylor Chou"
+# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
+bio = "C/C++, Python, Full Stack Engineer."
+company = "华夏星际拓荒联盟"
+location = "火星基地"
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
+
+[params]
+  #layout = "compact"

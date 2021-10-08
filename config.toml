@@ -1,0 +1,8 @@
+baseURL = 'http://notes.phyllisgarments.com/'
+languageCode = 'zh-cn'
+title = '小备份大整理'
+
+math = true # Enable math globally.
+toc = true # Disable TOC globally.
+breadcrumb = false # Disable breadcrumb
+diagram = true
